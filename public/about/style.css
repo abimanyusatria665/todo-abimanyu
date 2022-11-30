@@ -1,0 +1,44 @@
+.hero {
+  width: 100%;
+}
+.title-1 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 800;
+  color: #362101;
+  font-size: 64px;
+}
+.title-2 > h1 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  color: #362101;
+  font-size: 40px;
+}
+.text-2 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  color: #362101;
+}
+.waves {
+  width: 100%;
+}
+.title-3 {
+  font-family: "Poppins", sans-serif;
+  color: white;
+  font-weight: 700;
+  font-size: 50px;
+}
+@media (max-width: 575.98px) {
+  .title-1 {
+    font-size: 40px;
+  }
+  .about > img {
+    width: 320px;
+  }
+  .text-1 {
+    font-size: 28px;
+    margin-top: 50px;
+  }
+  .title-2 > h1 {
+    font-size: 30px;
+  }
+}

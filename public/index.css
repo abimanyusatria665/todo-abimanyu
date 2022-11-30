@@ -1,0 +1,19 @@
+.bg-1 {
+  background-color: #ece7ba;
+}
+.bg-2 {
+  background-color: #379065;
+}
+.bg-4 {
+  background-color: #418363;
+}
+.bg-3 {
+  background-color: #D6CDA4;
+}
+.bg-5 {
+  background-color: #264536;
+}
+.nav-link {
+  font-weight: 400;
+  font-family: "Poppins", sans-serif;
+}

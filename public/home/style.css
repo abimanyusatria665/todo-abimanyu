@@ -1,0 +1,70 @@
+.title-1 {
+  font-weight: 800;
+  font-size: 50px;
+  font-family: "Poppins", sans-serif;
+  color: white;
+}
+.title-2 {
+  font-weight: 800;
+  font-size: 40px;
+  font-family: "Poppins", sans-serif;
+  color: #362101;
+}
+.pillar-t {
+  font-weight: 700;
+  font-family: "Poppins", sans-serif;
+}
+.text-1 {
+  font-size: 30px;
+  font-weight: 700;
+  font-family: "Poppins", sans-serif;
+  color: white;
+}
+
+.text-2 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  color: white;
+}
+.waves {
+  width: 100%;
+}
+.pillar-card {
+  width: 230px;
+}
+
+.gallery-p > img {
+  width: 300px;
+  border-radius: 20px;
+}
+.gallery-p {
+  margin-top: 30px;
+}
+
+
+@media (max-width: 575.98px) {
+  .title-1 {
+    font-size: 40px;
+  }
+  .about > img {
+    width: 320px;
+  }
+  .text-1 {
+    font-size: 28px;
+    margin-top: 50px;
+  }
+  .title-2 {
+    font-size: 30px;
+  }
+}
+@media (max-width: 991.98px) {
+  .pillar-card {
+    margin-top: 20px;
+    width: 300px;
+  }
+}
+@media (min-width: 1400px) {
+  .pillar-card {
+    width: 300px;
+  }
+}
